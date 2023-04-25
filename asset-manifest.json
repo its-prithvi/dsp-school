@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.674ecbd8.css",
-    "main.js": "/static/js/main.9dfc0a64.js",
-    "static/js/787.b71b67f7.chunk.js": "/static/js/787.b71b67f7.chunk.js",
-    "static/media/newLogo.png": "/static/media/newLogo.c1c652e4b2acbce83c8b.png",
-    "static/media/carousal_1.jpeg": "/static/media/carousal_1.ca22a95d7f75ccb4cb74.jpeg",
-    "static/media/carousal_2.jpg": "/static/media/carousal_2.ab10585cc1e21658bebd.jpg",
-    "static/media/carousal_3.jpg": "/static/media/carousal_3.b8938456ad38af1b54d0.jpg",
-    "index.html": "/index.html",
-    "main.674ecbd8.css.map": "/static/css/main.674ecbd8.css.map",
-    "main.9dfc0a64.js.map": "/static/js/main.9dfc0a64.js.map",
-    "787.b71b67f7.chunk.js.map": "/static/js/787.b71b67f7.chunk.js.map"
+    "main.css": "/dsp-school/static/css/main.674ecbd8.css",
+    "main.js": "/dsp-school/static/js/main.3f4bc232.js",
+    "static/js/787.b71b67f7.chunk.js": "/dsp-school/static/js/787.b71b67f7.chunk.js",
+    "static/media/newLogo.png": "/dsp-school/static/media/newLogo.c1c652e4b2acbce83c8b.png",
+    "static/media/carousal_1.jpeg": "/dsp-school/static/media/carousal_1.ca22a95d7f75ccb4cb74.jpeg",
+    "static/media/carousal_2.jpg": "/dsp-school/static/media/carousal_2.ab10585cc1e21658bebd.jpg",
+    "static/media/carousal_3.jpg": "/dsp-school/static/media/carousal_3.b8938456ad38af1b54d0.jpg",
+    "index.html": "/dsp-school/index.html",
+    "main.674ecbd8.css.map": "/dsp-school/static/css/main.674ecbd8.css.map",
+    "main.3f4bc232.js.map": "/dsp-school/static/js/main.3f4bc232.js.map",
+    "787.b71b67f7.chunk.js.map": "/dsp-school/static/js/787.b71b67f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.674ecbd8.css",
-    "static/js/main.9dfc0a64.js"
+    "static/js/main.3f4bc232.js"
   ]
 }
